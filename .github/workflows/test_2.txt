@@ -10,3 +10,4 @@ succes
 succes
 succes
 version('1.2.0', sha256='bdb1da5469d314dc1c22cbbd1ecc6e1c9e0660bd1bada4f9a8efd97b3d8b1a0e')
+gitt
